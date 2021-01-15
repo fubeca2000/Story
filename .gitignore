@@ -1,0 +1,4 @@
+staging-notes.txt
+
+#Comments
+# *.txt  this will signal all .txt files should be ignored
